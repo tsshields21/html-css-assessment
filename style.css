@@ -1,0 +1,38 @@
+.top {
+	background: black;
+	height: 30px;
+	width: 100%;
+	margin-top: 10px;
+}
+
+.left {
+	border: solid pink;
+	height: 200px;
+	width: 300px;
+	margin-left: 30px;
+	margin-top: 30px;
+	display: inline-block;
+}
+
+
+.middle {
+	border: solid yellow;
+	height: 200px;
+	width: 300px;
+	display: inline-block;
+}
+
+.right {
+	border: solid green;
+	height: 200px;
+	width: 300px;
+	display: inline-block;
+}
+
+.bottom {
+	border: solid;
+	height: 200px;
+	width: 300px;
+	margin-left: 30px;
+
+}
